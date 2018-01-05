@@ -1,0 +1,9 @@
+body.highres.screen-mode{
+	opacity: 0;
+	transition:none;
+}
+body.highres.screen-mode.showaarati{
+	transition: opacity 2s;
+	-webkit-transition: opacity 2s;
+	opacity: 1;
+}
